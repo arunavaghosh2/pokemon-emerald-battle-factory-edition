@@ -31,7 +31,7 @@
 
 ## 📥 Downloads
 
-Visit the <a href="https://github.com/arunavaghosh07/pokemon-emerald-battle-factory-edition/releases">GitHub Releases</a> section to find available versions and patches.
+Visit the <a href="https://github.com/arunavaghosh2/pokemon-emerald-battle-factory-edition/releases">GitHub Releases</a> section to find available versions and patches.
 
 ## 🛠️ Tool Credits
 
